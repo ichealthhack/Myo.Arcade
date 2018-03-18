@@ -38,7 +38,7 @@ namespace EndlessRunner
             if (!m_canMove) return;
 
             // Jump.
-            if (Input.GetButtonDown("Vertical") && m_canJump)
+            if (Input.GetButtonDown("Fire1") && m_canJump)
             {
                 m_canJump = false;
 
@@ -46,7 +46,7 @@ namespace EndlessRunner
             }
 
             // Get movement value.
-            m_movement = new Vector3(Input.GetAxis("Horizontal"), 0, 0);
+            m_movement = new Vector3(Input.GetAxis("Mouse X"), 0, 0);
         }
 
         void FixedUpdate()
@@ -54,7 +54,7 @@ namespace EndlessRunner
             if (!m_canMove) return;
 
             // Execute movement.
-            m_rigidbody.MovePosition(m_rigidbody.position + m_movement * 3);
+            m_rigidbody.MovePosition(m_rigidbody.position + m_movement * m_horizontalSpeed * Time.fixedDeltaTime);
             // donut forget m_movement * m_horizontalSpeed * Time.fixedDeltaTime
         }
 

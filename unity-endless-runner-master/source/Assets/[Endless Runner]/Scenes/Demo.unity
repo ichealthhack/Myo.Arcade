@@ -7885,8 +7885,8 @@ MonoBehaviour:
   - {fileID: 1114981729}
   - {fileID: 339914061}
   - {fileID: 1484982712}
-  m_horizontalSpeed: 25
-  m_verticalSpeed: 7.5
+  m_horizontalSpeed: 15
+  m_verticalSpeed: 9
   m_fieldOfViewMultiplier: 10
   m_fieldOfViewLimit: 75
 --- !u!4 &1082916796
@@ -8244,8 +8244,8 @@ MonoBehaviour:
   prefab: {fileID: 11495604, guid: 27b5f81e2ac1c02428925844da25a35e, type: 2}
   poolSize: 10
   poolCanGrow: 1
-  m_minSpawnTime: 1.5
-  m_maxSpawnTime: 2.5
+  m_minSpawnTime: 2
+  m_maxSpawnTime: 3
   m_showDebug: 0
 --- !u!1001 &1219258475
 Prefab:
