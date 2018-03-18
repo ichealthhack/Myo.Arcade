@@ -1,5 +1,5 @@
 # MyoArcade
-Our team is focussing on developing a system to gamify the muscle rehabilitation experience. Our created system has 3 main domains:
+Our team is focusing on developing a system to gamify the muscle rehabilitation experience. Our created system has 3 main domains:
 - Diagnostic Capability
 - Targeted Physiotherapy
 - Tracking Rehabilitation
