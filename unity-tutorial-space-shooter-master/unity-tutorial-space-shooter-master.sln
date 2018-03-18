@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-tutorial-space-shooter-master", "unity-tutorial-space-shooter-master.csproj", "{119841C8-43E0-473B-1667-7343C8D0819E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-tutorial-space-shooter-master.Editor", "unity-tutorial-space-shooter-master.Editor.csproj", "{A17A3F35-BA6D-80A7-553D-1000621544B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119841C8-43E0-473B-1667-7343C8D0819E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119841C8-43E0-473B-1667-7343C8D0819E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119841C8-43E0-473B-1667-7343C8D0819E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119841C8-43E0-473B-1667-7343C8D0819E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17A3F35-BA6D-80A7-553D-1000621544B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17A3F35-BA6D-80A7-553D-1000621544B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17A3F35-BA6D-80A7-553D-1000621544B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17A3F35-BA6D-80A7-553D-1000621544B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

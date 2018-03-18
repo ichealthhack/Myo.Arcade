@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1642 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\george\healthHack\Sandboxing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\george\healthHack\Sandboxing_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\MKGlowSystem.dll (this message is harmless)
+Loading C:\Users\george\healthHack\Sandboxing_Data\Managed\MKGlowSystem.dll into Unity Child Domain
+- Completed reload, in  0.194 seconds
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\george\healthHack\Sandboxing_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+WARNING: Shader Unsupported: 'Hidden/MKGlowBlur' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/MKGlowBlur' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/MKGlowFastBlur' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/MKGlowFastBlur' - Setting to default shader.
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+WARNING: Shader Unsupported: 'Hidden/MKGlowRender' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/MKGlowRender' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/MKGlowRender' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/MKGlowRender' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/MKGlowRender' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/MKGlowCompose' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/MKGlowCompose' - Setting to default shader.
+WARNING: Shader Unsupported: 'MK/MKGlow/Standard' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'MK/MKGlow/Standard' - Pass 'FORWARD_DELTA' has no vertex shader
+UnloadTime: 3.701772 ms
+ThalmicHub failed to initialize.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1320 -> priority: 1 
